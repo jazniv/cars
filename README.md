@@ -1,3 +1,7 @@
+Name: Juliana Glodek
+Student ID: 2315321
+Email: glodek@chapman.edu
+
 # Application Purpose
 
 This repo will contain a bash script named “cars.sh” that will help a user maintain an inventory of old cars.  
