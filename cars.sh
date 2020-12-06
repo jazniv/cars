@@ -19,9 +19,7 @@ do
 			new_car="${YEAR}:${MAKE}:${MODEL}"
 			echo "$new_car" >> My_old_cars.txt;;
 		"2")
-			sort My_old_cars.txt > My_old_cars_sorted.txt
-			echo "Your list of cars:"
-			cat My_old_cars_sorted.txt;;
+			sort My_old_cars;;
 		"3")
 			echo "Goodbye!"
 			break;;
